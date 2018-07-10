@@ -13,5 +13,5 @@ Program Analysis for Cybersecurity 2018 Seminar Materials
 ### Day 2
 - [Competition Team Survey](https://goo.gl/forms/NL4hZfwRtlYPGYVB3) (please complete by Tuesday afternoon)
 - [Post Exploitation Lecture](slides/PostExploitation.pdf) and [Post Exploitation Lecture Notes](slides/PostExploitationNotes.pdf)
-- [Web Security Lecture](slides/WebSecurity.pdf) and Web Security Lecture Notes](slides/WebSecurityNotes.pdf)
+- [Web Security Lecture](slides/WebSecurity.pdf) and [Web Security Lecture Notes](slides/WebSecurityNotes.pdf)
 - [PACSeminar2018 VM](http://www.benjaminsbox.com/pac/PACSeminar2018.ova) or [Dropbox Link](https://www.dropbox.com/s/xyhfyce9636ptl6/PACSeminar2018.ova?dl=0)
