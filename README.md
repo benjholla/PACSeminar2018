@@ -1,6 +1,8 @@
 # PAC Seminar 2018
 Program Analysis for Cybersecurity 2018 Seminar Materials
 
+Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerablevideoservice.com/)
+
 ## Materials
 ### Day 1 (Binary Exploitation)
 - [Introduction Lecture](slides/Introduction.pdf) and [Introduction Lecture Notes](slides/IntroductionNotes.pdf)
