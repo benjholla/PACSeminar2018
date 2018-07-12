@@ -49,3 +49,5 @@ If your website is not running you can try running the restart script in the web
 
     cd /home/vvs/deployment/scripts
     sudo ./restart.sh
+
+You should now be able to go to [http://teamN.vulnerablevideoservice.com](http://teamN.vulnerablevideoservice.com).
