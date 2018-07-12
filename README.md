@@ -28,3 +28,4 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 - [Bug Hunting Lecture](slides/BugHunting.pdf) and [Bug Hunting Lecture Notes](slides/BugHuntingNotes.pdf)
 - Submit competition morning report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
 - Competition login instructions: [CompetitionLogin.md](CompetitionLogin.md) (Note: SSH Keys will be emailed directly to teams after lecture)
+- [Talk on Log Analysis](https://www.irongeek.com/i.php?page=videos/derbycon6/410-garbage-in-garbage-out-generating-useful-log-data-in-complex-environments-ellen-hartstack-and-matthew-sullivan)
