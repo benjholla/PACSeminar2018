@@ -42,7 +42,7 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 
 - ALL TEAMS MUST HAVE FUN!
 
-#### Team Domains
+#### Competition Targets
 - http://team1.vulnerablevideoservice.com
 - http://team3.vulnerablevideoservice.com
 - http://team4.vulnerablevideoservice.com
