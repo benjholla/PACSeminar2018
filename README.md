@@ -24,6 +24,6 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 - [Windows7 Analysis VM](http://www.benjaminsbox.com/pac/Windows7Analysis.ova) Login `Victim`:`badpass`
 - Reuse VM from Day 2 ([PACSeminar2018 VM](http://www.benjaminsbox.com/pac/PACSeminar2018_1.0.ova) Login `pac`:`badpass`)
 
-### Day 4 (Threat Modeling + Bug Hunting + Competition Overview)
+### Day 4 (Bug Hunting + Competition Overview)
 - Submit competition morning report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
 - Competition login instructions: [CompetitionLogin.md](CompetitionLogin.md) (Note: SSH Keys will be emailed directly to teams after lecture)
