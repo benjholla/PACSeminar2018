@@ -25,5 +25,6 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 - Reuse VM from Day 2 ([PACSeminar2018 VM](http://www.benjaminsbox.com/pac/PACSeminar2018_1.0.ova) Login `pac`:`badpass`)
 
 ### Day 4 (Bug Hunting + Competition Overview)
+- [Bug Hunting Lecture](slides/BugHunting.pdf) and [Bug Hunting Lecture Notes](slides/BugHuntingNotes.pdf)
 - Submit competition morning report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
 - Competition login instructions: [CompetitionLogin.md](CompetitionLogin.md) (Note: SSH Keys will be emailed directly to teams after lecture)
