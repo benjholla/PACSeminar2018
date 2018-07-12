@@ -2,7 +2,15 @@
 
 Note: Replace `N` in `VVSTeamN` and `teamN` with your team number. Replace `<IP>` with your servers IP address (you may want to do this is updates to DNS are propogating slowly during the competition).
 
-# First time setup
+# Default Passwords
+There are two accounts on the competition server.
+
+- `ubuntu`:`WilEXamixt`
+- `vvs`:`naTardPewd`
+
+You can change the password for a user you are logged in as by typing `passwd`. You can change the password of another user by typing `sudo passwd <user>` (replacing `<user>` with the name of the user account you wish to change the password for).
+
+# First Time Setup
 
 You will want to login as the vvs user, however by default your SSH keys were generated for the ubuntu user. You should copy your authorized SSH key into the vvs's authorized keys. Important, you should replace default ssh key for vvs because it is a known ssh key and other teams will be able to log as your vvs user if you do not change it.
 
