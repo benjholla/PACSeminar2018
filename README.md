@@ -47,6 +47,6 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 ### Competition Rules
 - If your team has been hacked completely and would like to reset the server they can do so for a score penalty. They will then have 30 minutes of safe time to restore the services. Do this only as a last resort.
 
-- Teams should maintain the basic functionality of the web service. Consider that you are a business and still want to have customers that use the service. If you remove or disable services, then you will lose some points due to "team spirit" as the disgression of the instructor.
+- Teams should maintain the basic functionality of the web service. Consider that you are a business and still want to have customers that use the service. If you remove or disable services, then you will lose some points due to "team spirit" as the discretion of the instructor.
 
 - ALL TEAMS MUST HAVE FUN!
