@@ -40,6 +40,8 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 
 - Teams should maintain the basic functionality of the web service. Consider that you are a business and still want to have customers that use the service. If you remove or disable services, then you will lose some points due to "team spirit" as the disgression of the instructor.
 
+- ALL TEAMS MUST HAVE FUN!
+
 #### Team Domains
 - http://team1.vulnerablevideoservice.com
 - http://team3.vulnerablevideoservice.com
