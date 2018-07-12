@@ -1,0 +1,24 @@
+if (userSession != null) {
+	// insert video into clips table
+	String sql = "INSERT INTO " + Database.DB_NAME + "." + Database.VIDEOS_TABLE + "(" 
+    		  + Database.VIDEOS_TABLE_SHORTNAME + ", " 
+    		  + Database.VIDEOS_TABLE_TITLE + ", " 
+    		  + Database.VIDEOS_TABLE_DESCRIPTION + ", " 
+    		  + Database.VIDEOS_TABLE_OWNER + ", " 
+    		  + Database.VIDEOS_TABLE_TYPE 
+    		  + ") VALUES (?, ?, ?, ?, ?)";
+
+	// update the database
+	Database database = null;
+	PreparedStatement statement = null;
+	try {
+		database = Database.getInstance();
+		statement = database.getConnection().prepareStatement(sql);
+		statement.setString(1, shortname); 
+		statement.setString(2, title); 
+		statement.setString(3, description); 
+		statement.setInt(4, Integer.parseInt(userSession.get(UserSession.ID).toString())); 
+		statement.setString(5, extension);
+		statement.execute();
+		return getRedirect("/view?video=" + shortname);
+	} catch (SQLException e) {
