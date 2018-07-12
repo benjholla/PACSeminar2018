@@ -33,7 +33,11 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 ### Day 5 (Competition!)
 - Competition begins officially at 10am in Lab 4. You can come earlier to work and instructor will arrive at 9:30am. At 10am the following domains (see Competiton Targets) will be available for attack by all teams. The competition will run for 3 hours until 1pm.
 
-- Please do not do destructive attacks until 12pm (noon). For example do not drop databases, ban all users, or perform denial of service attacks. During the first two hours focus on stealthy attacks such as gaining more access. At 12pm noon it is "[weapons free](https://en.wiktionary.org/wiki/weapons_free)" and you may attack in any manner you want until the end of the competition. At 1:30pm your afternoon report will be due detailing any new vulnerabilities you have found and the attacks you have attempted or successfully performed. After lunch the competition winners will be announced and an informal debrief session will follow where teams can discuss their experiences.
+- Please do not do destructive attacks until 12pm (noon). For example do not drop databases, ban all users, or perform denial of service attacks. During the first two hours focus on stealthy attacks such as gaining more access. At 12pm noon it is "[weapons free](https://en.wiktionary.org/wiki/weapons_free)" and you may attack in any manner you want until the end of the competition. 
+
+- At 1:15pm your afternoon report will be due detailing any new vulnerabilities you have found and the attacks you have attempted or successfully performed.
+
+- After lunch the competition winners will be announced and an informal debrief session will follow where teams can discuss their experiences.
 
 #### Competition Targets
 - http://team1.vulnerablevideoservice.com
