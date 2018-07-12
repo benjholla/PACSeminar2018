@@ -2,6 +2,8 @@
 
 You should list the details of as many vulnerabiities as you can find. For each vulnerabiity complete the sections below. If you cannot complete every section, leave the section blank. Points are awarded for professionalism and completeness of the report.
 
+Submit report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
+
 ## Vulnerabiity Description
 - Provide a short desciption (1-3 sentences) of the vulnerability.
 - Describe where the vulnerability is on the website.
