@@ -8,23 +8,23 @@ You will want to login as the vvs user, however by default your SSH keys were ge
 
 - From a linux or mac machine open the directory and cd to where you downloaded the VVSTeamN.pem file. Alternatively on Windows you can download the Putty program as described at [https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html).
 
-`chmod 400 VVSTeamN.pem`
-`ssh -i VVSTeamN.pem ubuntu@teamN.vulnerablevideoservice.com`
+    chmod 400 VVSTeamN.pem
+    ssh -i VVSTeamN.pem ubuntu@teamN.vulnerablevideoservice.com
 OR
-`ssh -i VVSTeamN.pem ubuntu@<ip>`
+    ssh -i VVSTeamN.pem ubuntu@<ip>
 
 - Change to super user and copy the ssh keys then exit super user. 
 
-`sudo su`
-`cat /home/ubuntu/.ssh/authorized_keys > /home/vvs/.ssh/authorized_keys`
-`exit`
+    sudo su
+    cat /home/ubuntu/.ssh/authorized_keys > /home/vvs/.ssh/authorized_keys
+    exit
 
 - Log out of the ubuntu user.
 
-`exit`
+    exit
 
 - You can now log in to vvs account from SSH.
 
-`ssh -i VVSTeamN.pem vvs@teamN.vulnerablevideoservice.com`
+    ssh -i VVSTeamN.pem vvs@teamN.vulnerablevideoservice.com
 OR
-`ssh -i VVSTeamN.pem vvs@<ip>`
+    ssh -i VVSTeamN.pem vvs@<ip>
