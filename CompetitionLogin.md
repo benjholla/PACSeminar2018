@@ -51,3 +51,12 @@ If your website is not running you can try running the restart script in the web
     sudo ./restart.sh
 
 You should now be able to go to [http://teamN.vulnerablevideoservice.com](http://teamN.vulnerablevideoservice.com).
+
+## Pushing New Code to Website
+
+Inside the PACSeminar2018 VM open Eclipse and edit the code to fix vulnerabilities. After testing the code locally to make sure it works you can deploy it to the web server.
+
+1) Right click on the project file `create_deployment.ant.xml` and navigate to `Run As` &gt; `Ant Build`.
+2) Right click on the project file `deploy.sh` and ensure that the variable `DEPLOYMENT_SERVER` is set to your team domain name (example: `teamN.vulnerablevideoservice.com`) or the team IP address.
+3) In the `deploy.sh` script also ensure that the variable `CERTIFICATE` is set to the path to your team SSH private key (example: `/home/pac/Desktop/VVSTeamN.pem`). Remember that the private key permissions need to be set correctly (`chmod 400 VVSTeamN.pem`).
+4) Finally run the `deploy.sh` script by running `cd /home/pac/workspace/VVS` followed by `./deploy.sh`.
