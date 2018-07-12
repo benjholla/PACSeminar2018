@@ -26,3 +26,4 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 
 ### Day 4 (Threat Modeling + Bug Hunting + Competition Overview)
 - Submit competition morning report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
+- Competition login instructions: [CompetitionLogin.md](CompetitionLogin.md) (Note: SSH Keys will be emailed directly to teams after lecture)
