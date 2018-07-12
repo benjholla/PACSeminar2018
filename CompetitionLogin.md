@@ -40,3 +40,12 @@ You can now log in to vvs account from SSH.
 OR
 
     ssh -i VVSTeamN.pem vvs@<ip>
+    
+After your first login the website will not be running yet. So you should restart the website (see next section).
+
+## Restarting Website
+
+If your website is not running you can try running the restart script in the website deployment folder. Log in as the vvs user and then run the commands below.
+
+    cd /home/vvs/deployment/scripts
+    sudo ./restart.sh
