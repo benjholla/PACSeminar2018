@@ -29,3 +29,18 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 - Submit competition morning report by 10AM on Friday at: [https://goo.gl/forms/LCMdlFjOQ4zAQP8g2](https://goo.gl/forms/LCMdlFjOQ4zAQP8g2).
 - Competition login instructions: [CompetitionLogin.md](CompetitionLogin.md) (Note: SSH Keys will be emailed directly to teams after lecture)
 - [Talk on Log Analysis](https://www.irongeek.com/i.php?page=videos/derbycon6/410-garbage-in-garbage-out-generating-useful-log-data-in-complex-environments-ellen-hartstack-and-matthew-sullivan)
+
+### Day 5 (Competition!)
+- Competition begins officially at 10am in Lab 4. You can come earlier to work and instructor will arrive at 9:30am. At 10am the following domains will be available for attack by all teams. The competition will run for 3 hours until 1pm.
+
+### Competition Rules
+Please do not do destructive attacks until 12pm (noon). For example do not drop databases, banning all users, or performing denial of service attacks. During the first two hours focus on stealthy attacks such as gaining more access. At 12pm noon it is "[weapons free](https://en.wiktionary.org/wiki/weapons_free)" and may attack in any manner you want until the end of the competition. At 1:30pm your afternoon report will be due detailing any new vulnerabilities you have found and the attacks you have attempted or successfully performed. After lunch the competition winners will be announced and an informal debrief session will follow where teams can discuss their experiences.
+
+#### Team Domains
+- http://team1.vulnerablevideoservice.com
+- http://team3.vulnerablevideoservice.com
+- http://team4.vulnerablevideoservice.com
+- http://team5.vulnerablevideoservice.com
+- http://team6.vulnerablevideoservice.com
+- http://team7.vulnerablevideoservice.com
+- http://team8.vulnerablevideoservice.com
