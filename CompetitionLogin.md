@@ -3,7 +3,7 @@
 Note: Replace `N` in `VVSTeamN` and `teamN` with your team number. Replace `<IP>` with your servers IP address (you may want to do this is updates to DNS are propogating slowly during the competition).
 
 # Default Passwords
-There are two accounts on the competition server.
+There are two accounts on the competition server. However the server is configured to only accept SSH connections that send an SSH certificate (passwords are not accepted), so these passwords are for local access commands only (such as running `sudo`).
 
 - `ubuntu`:`WilEXamixt`
 - `vvs`:`naTardPewd`
