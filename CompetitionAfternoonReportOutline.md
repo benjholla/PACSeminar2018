@@ -11,4 +11,5 @@ You should list the details of as many new vulnerabiities (exclude vulnerabiliti
 - Was the attack succesful? How do you know? What time were successful in performing the attack?
 - Did the target provide any mitigations for the attack? How do you know?
 
-Submit report by 1:15PM on Friday at: [https://goo.gl/forms/zK3gcWgdGmYkiadK2](https://goo.gl/forms/zK3gcWgdGmYkiadK2).
+## Report Submission
+Submit report by 1:15PM on Friday at: [https://goo.gl/forms/zK3gcWgdGmYkiadK2](https://goo.gl/forms/zK3gcWgdGmYkiadK2). Please just report one report per team.
