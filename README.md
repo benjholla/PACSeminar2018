@@ -35,7 +35,7 @@ Test competition image: [test.vulnerablevideoservice.com](http://test.vulnerable
 
 - Please do not do destructive attacks until 12pm (noon). For example do not drop databases, ban all users, or perform denial of service attacks. During the first two hours focus on stealthy attacks such as gaining more access. At 12pm noon it is "[weapons free](https://en.wiktionary.org/wiki/weapons_free)" and you may attack in any manner you want until the end of the competition. 
 
-- At 1:15pm your afternoon report will be due detailing any new vulnerabilities you have found and the attacks you have attempted or successfully performed.
+- At 1:15pm your afternoon report will be due detailing any new vulnerabilities you have found and the attacks you have attempted or successfully performed. Submit afternoon report here: [https://goo.gl/forms/zK3gcWgdGmYkiadK2](https://goo.gl/forms/zK3gcWgdGmYkiadK2).
 
 - After lunch the competition winners will be announced and an informal debrief session will follow where teams can discuss their experiences.
 
